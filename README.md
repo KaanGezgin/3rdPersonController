@@ -1,5 +1,7 @@
 # 3rdPersonController
 
+IMPORTENT NOTE: In this repository project developed before in patient project repository. I want to divided my projects in Patient Projects repository
+
 This repository main object creating a 3rd person controller mechanics
 
 Mechanics:
